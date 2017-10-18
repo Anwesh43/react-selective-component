@@ -1,2 +1,2 @@
-const SelectiveComponent = require('./lib')
-module.exports = SelectiveComponent
+import SelectiveComponent from './lib'
+export default SelectiveComponent
