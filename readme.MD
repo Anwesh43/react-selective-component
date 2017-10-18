@@ -28,3 +28,6 @@
         .... Do anything 👍
     }
 ```
+
+### Some important notes.
+#### If you are overriding ```componentWillUnmount``` then call ```super.componentWillUnmount()```
