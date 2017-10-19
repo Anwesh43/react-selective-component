@@ -1,2 +1,1 @@
-import SelectiveComponent from './lib'
-export default SelectiveComponent
+module.exports = require('./src')
